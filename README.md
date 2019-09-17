@@ -6,7 +6,7 @@ This implementation is written by Jiaxing Chen at the South China University of 
 
 ## Saliency Map
 
-The results of salient object detection on seven datasets (ECSSD, HKU-IS, PASCAL-S, SOD, DUT-OMRON, DUTS-TE, SOC) can be found at [Google Drive](https://drive.google.com/file/d/1tv72yWNH0ANHoSU4qMOwD7g5r53wSZEe/view?usp=sharing).
+The results of salient object detection on seven datasets (ECSSD, HKU-IS, PASCAL-S, SOD, DUT-OMRON, DUTS-TE, SOC) can be found at [Google Drive](https://drive.google.com/open?id=1tv72yWNH0ANHoSU4qMOwD7g5r53wSZEe).
 
 ## Trained Model
 

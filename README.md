@@ -4,6 +4,16 @@ by Lei Zhu, Jiaxing Chen, Xiaowei Hu, Chi-Wing Fu, Xuemiao Xu, Jing Qin, and Phe
 
 This implementation is written by Jiaxing Chen at the South China University of Technology.
 
+## Citation
+
+@article{zhu2019aggregating,
+      title={Aggregating Attentional Dilated Features for Salient Object Detection},
+      author={Zhu, Lei and Chen, Jiaxing and Hu, Xiaowei and Fu, Chi-Wing and Xu, Xuemiao and Qin, Jing and Heng, Pheng-Ann},
+      journal={IEEE Transactions on Circuits and Systems for Video Technology},
+      year={2019},
+      publisher={IEEE}
+}
+
 ## Saliency Map
 
 The results of salient object detection on seven datasets (ECSSD, HKU-IS, PASCAL-S, SOD, DUT-OMRON, DUTS-TE, SOC) can be found at [Google Drive](https://drive.google.com/open?id=1tv72yWNH0ANHoSU4qMOwD7g5r53wSZEe).

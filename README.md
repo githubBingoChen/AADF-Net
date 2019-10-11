@@ -6,17 +6,12 @@ This implementation is written by Jiaxing Chen at the South China University of 
 
 ## Citation
 
-@article{zhu2019aggregating,  
-
-​	title={Aggregating Attentional Dilated Features for Salient Object Detection},
-
-​	author={Zhu, Lei and Chen, Jiaxing and Hu, Xiaowei and Fu, Chi-Wing and Xu, Xuemiao and Qin, Jing and Heng, Pheng-Ann},  
-
-​	journal={IEEE Transactions on Circuits and Systems for Video Technology},  
-
-​	year={2019},
-
-​	publisher={IEEE}
+@article{zhu2019aggregating,   
+&nbsp;&nbsp;&nbsp;&nbsp;  title={Aggregating Attentional Dilated Features for Salient Object Detection},    
+&nbsp;&nbsp;&nbsp;&nbsp;  author={Zhu, Lei and Chen, Jiaxing and Hu, Xiaowei and Fu, Chi-Wing and Xu, Xuemiao and Qin, Jing and Heng, Pheng-Ann},    
+&nbsp;&nbsp;&nbsp;&nbsp;  journal={IEEE Transactions on Circuits and Systems for Video Technology},    
+&nbsp;&nbsp;&nbsp;&nbsp;  year  = {2019},    
+&nbsp;&nbsp;&nbsp;&nbsp;  publisher={IEEE}    
 }
 
 ## Saliency Map

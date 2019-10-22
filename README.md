@@ -20,7 +20,7 @@ The results of salient object detection on seven datasets (ECSSD, HKU-IS, PASCAL
 
 ## Trained Model
 
-You can download the trained model which is reported in our paper at  [Google Drive]().
+You can download the trained model which is reported in our paper at  [Google Drive](https://drive.google.com/file/d/1AWFG6x2lLNTUttBIxzrCFH277wkRuFX-/view?usp=sharing).
 
 ## Requirement
 

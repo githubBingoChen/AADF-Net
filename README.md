@@ -1,5 +1,4 @@
-# Aggregating Attentional Dilated Features for Salient Object
-Detection
+# Aggregating Attentional Dilated Features for Salient Object Detection
 by Lei Zhu, Jiaxing Chen, Xiaowei Hu, Chi-Wing Fu, Xuemiao Xu, Jing Qin, and Pheng-Ann Heng [[paper link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8836095)]
 
 This implementation is written by Jiaxing Chen at the South China University of Technology.
